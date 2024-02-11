@@ -1,0 +1,66 @@
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+margin-left: 20px;
+margin-right: 20px;
+    padding: 0;
+    background: linear-gradient(to bottom, #bdc3c7, #2c3e50);
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+   color: #183048;
+}
+.topContent{
+text-align: center;
+    margin-bottom: 100px;
+
+}
+.currentDay{
+    margin-bottom: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.forecast {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+p {
+    text-transform: capitalize;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    flex: 1;
+    margin-right: 10px;
+    transition: border-color 0.3s;
+    width: 200px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #183048;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}

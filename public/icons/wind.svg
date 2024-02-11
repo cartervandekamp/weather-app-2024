@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 296 275.96">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke-width: 19.67px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #c9c9c9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        stroke-width: 26px;
+      }
+    </style>
+  </defs>
+  <g id="wind">
+    <g id="wind-2" data-name="wind">
+      <path class="cls-3" d="M13,118.91h221.8c2.67,0,5.22-1.06,7.1-2.95,17.05-17.13,96.4-102.95-25.6-102.95"/>
+      <path class="cls-1" d="M62.69,186.02h167.76c2.02,0,3.95.8,5.37,2.23,12.9,12.96,72.92,77.87-19.37,77.87"/>
+      <line class="cls-2" x1="20.71" y1="151.72" x2="266.92" y2="151.72"/>
+    </g>
+  </g>
+</svg>
