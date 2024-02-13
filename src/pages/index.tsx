@@ -1,4 +1,3 @@
-// Home.tsx
 import axios from 'axios';
 import { useState } from 'react';
 import Weather from '@/components/Weather';
